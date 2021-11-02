@@ -1,0 +1,49 @@
+body {
+    background-color: #fed8f6;
+  }
+  
+  h1 {
+    background-color: #80ced6;
+  }
+  
+  div {
+    background-color: #d5f4e6;
+  }
+  
+  span {
+    background-color: #f173c7;
+  }
+
+  div{
+    float:left;
+    margin-right:5px;
+}
+
+div > img{
+   height:200px;
+    width:200px;
+}
+
+p{
+    text-align:center;
+}
+div{ text-align: left;
+
+}
+body {
+    padding: 20px;
+    font-size: 20px;
+  }
+  
+  p {
+    margin: 0 auto;
+    max-width: 150px;
+    border: solid 2px #ccc;
+    padding: 12px;
+  }
+  
+  
+  #Overflow {
+    overflow-wrap: break-word;
+    hyphens: auto;
+  }
